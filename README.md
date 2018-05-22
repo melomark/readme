@@ -5,7 +5,7 @@ I grew up as a privileged beach grom in beautiful Santa Barbara California. I sa
 
 My interest in school was theatre arts and from an early age sought out mentors which I believe is the way I learn best. After high school I apprenticed with a sculptor who taught me about form and how to listen to what a material wanted to express. I worked with an oil artist who taught be about process, composition, color, and line. In college I continued learning stagecraft and theatre production where I learned what it takes to plan, create, and run a show which in-turn prepared me to work in creative fields like marketing and web development.
 
-When the World Wide Web became popular I had already been using modems to connect my Commodore 64 to BBS, FidoNet, and Usenet to share binary files and email friends. I have lived through the evolution of networks, content, and devices and I’m excited that the next branch of the evolution is only a few development cycles away. 
+In grade school I remember going to the library playing Lunar Lander on the Commodore PET; of course I don't remember the spelling and math games but I'm sure they were there too. When the World Wide Web became popular I had already been using modems to connect my Commodore 64 to BBS, FidoNet, and Usenet to share binary files and email friends. I have lived through the evolution of networks, content, and devices and I’m excited that the next branch of the evolution is only a few development cycles away. 
 
 ## My Role as Scrum Master
 
@@ -15,7 +15,7 @@ Don't 'do' agile, be agile. Forget everything else and focus on making working s
 
 I will always default to the Scrum Framework/Values **but** I'm open to variants and experimenting with different paths to the end result. I will bring questions directly to the team about whether the new method is working and will facilitate the adoption and optimization. 
 
-As a coach I will use my experience and curiousity to bring out the best in you. I may not have an answer to your questions but I will listen to you and respect your candor. Sometimes it helps to have someone to walk and talk with. 
+As a coach I will use my experience and curiousity to bring out the best in you. I may not have an answer to your question but I will listen to you and respect your candor and privacy. I am always learning and my next lesson may come from you.
 
 
 ## My Core Values
@@ -24,7 +24,7 @@ As a coach I will use my experience and curiousity to bring out the best in you.
 
 **Inclusive > Exclusive:** You can't say 'you can't play.' Bringing people together enriches the environment for problem solving by giving everyone a voice.
 
-**You Can Be Both Kind and Fierce:** Passion and argument is acceptable and encouraged but is limited to the subject at hand and should never get personal.
+**You Can Be Both Kind and Fierce:** Passion and argument are both acceptable and encouraged but should only be limited to the subject at hand and should never get personal.
 
 **Team Comes First:** I am committed to helping us become a higher performing team. I expect high performance and will perform my best to remove any impediments that will interfere with us meeting our commitments.
 
